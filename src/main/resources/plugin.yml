@@ -1,5 +1,15 @@
 name: Blue_Marble
-main: kr.co.chal2and.bluemarble.plugin.BlueMarblePlugin
+main: com.github.chal2andev.bluemarble.plugin.BlueMarblePlugin
 version: 1.0
 api-version: '1.16'
 author: chal2and
+
+commands:
+  bluemarble:
+   usage: /bluemarble [args..]
+   description: bluemarble contral command
+   permission: contral.bluemarble.command
+
+permissions:
+  contral.bluemarble.command:
+    default: op
