@@ -1,8 +1,8 @@
 import java.io.OutputStream
 
 plugins {
-    kotlin("jvm") version "1.4.30"
-    kotlin("plugin.serialization") version "1.4.30"
+    kotlin("jvm") version "1.4.31"
+    kotlin("plugin.serialization") version "1.4.31"
     id("com.github.johnrengelman.shadow") version "5.2.0"
 //    `maven-publish`
 }
@@ -20,6 +20,7 @@ dependencies {
     compileOnly(kotlin("stdlib"))
     compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.2")
     compileOnly("com.destroystokyo.paper:paper-api:1.16.5-R0.1-SNAPSHOT")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 
     implementation("com.github.monun:kommand:0.7.+")
 

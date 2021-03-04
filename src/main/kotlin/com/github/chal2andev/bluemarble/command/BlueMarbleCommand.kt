@@ -1,6 +1,7 @@
 package com.github.chal2andev.bluemarble.command
 
 import com.github.monun.kommand.KommandDispatcherBuilder
+import org.bukkit.ChatColor
 import org.bukkit.entity.Player
 
 object BlueMarbleCommand {
@@ -14,6 +15,6 @@ object BlueMarbleCommand {
         }
     }
     private fun bluemarble(sender: Player){
-        sender.sendMessage("bluemarble plugin test message")
+        sender.sendMessage("${ChatColor.GOLD}BlueMarble Test")
     }
 }
