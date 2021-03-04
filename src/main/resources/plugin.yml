@@ -1,0 +1,5 @@
+name: Blue_Marble
+main: kr.co.chal2and.bluemarble.plugin.BlueMarblePlugin
+version: 1.0
+api-version: '1.16'
+author: chal2and
