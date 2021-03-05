@@ -1,58 +1,55 @@
-[03:05:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:05:58] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[03:05:58] [Worker-Main-5/INFO]: Loaded 7 recipes
-[03:05:59] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[03:05:59] [Server thread/INFO]: Loading properties
-[03:05:59] [Server thread/INFO]: This server is running Paper version git-Paper-520 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[03:05:59] [Server thread/INFO]: Debug logging is disabled
-[03:05:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:05:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:05:59] [Server thread/INFO]: Default game type: SURVIVAL
-[03:05:59] [Server thread/INFO]: Generating keypair
-[03:05:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:05:59] [Server thread/INFO]: Using default channel type
-[03:06:00] [Server thread/INFO]: [Blue_Marble] Loading Blue_Marble v1.0
-[03:06:00] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.2+fc3c499
-[03:06:00] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@67f740d9]
-[03:06:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:06:00] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.2+fc3c499
-[03:06:01] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[03:06:01] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
-[03:06:02] [Server thread/INFO]: Preparing level "world"
-[03:06:02] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[03:06:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:06:03] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[03:06:03] [Server thread/INFO]: Preparing spawn area: 0%
-[03:06:03] [Server thread/INFO]: Preparing spawn area: 0%
-[03:06:03] [Server thread/INFO]: Time elapsed: 594 ms
-[03:06:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:06:03] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[03:06:03] [Server thread/INFO]: Preparing spawn area: 0%
-[03:06:03] [Server thread/INFO]: Time elapsed: 387 ms
-[03:06:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:06:03] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[03:06:03] [Server thread/INFO]: Preparing spawn area: 0%
-[03:06:03] [Server thread/INFO]: Time elapsed: 129 ms
-[03:06:03] [Server thread/INFO]: [Blue_Marble] Enabling Blue_Marble v1.0
-[03:06:04] [Server thread/INFO]: Running delayed init tasks
-[03:06:04] [Server thread/INFO]: Done (4.364s)! For help, type "help"
-[03:06:04] [Server thread/INFO]: Timings Reset
-[03:06:04] [Server thread/INFO]: Stopping the server
-[03:06:04] [Server thread/INFO]: Stopping server
-[03:06:04] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.2+fc3c499
-[03:06:04] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[03:06:04] [Server thread/INFO]: [Blue_Marble] Disabling Blue_Marble v1.0
-[03:06:04] [Server thread/INFO]: Saving players
-[03:06:04] [Server thread/INFO]: Saving worlds
-[03:06:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:06:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:06:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:06:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:06:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:06:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:06:09] [Server thread/INFO]: Flushing Chunk IO
-[03:06:09] [Server thread/INFO]: Closing Thread Pool
-[03:06:09] [Server thread/INFO]: Closing Server
+[16:38:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:38:53] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:38:54] [Worker-Main-5/INFO]: Loaded 7 recipes
+[16:38:55] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[16:38:55] [Server thread/INFO]: Loading properties
+[16:38:55] [Server thread/INFO]: This server is running Paper version git-Paper-525 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[16:38:55] [Server thread/INFO]: Debug logging is disabled
+[16:38:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:38:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:38:55] [Server thread/INFO]: Default game type: SURVIVAL
+[16:38:55] [Server thread/INFO]: Generating keypair
+[16:38:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:38:55] [Server thread/INFO]: Using default channel type
+[16:38:56] [Server thread/INFO]: [Blue_Marble] Loading Blue_Marble v1.0
+[16:38:56] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.2+fc3c499
+[16:38:56] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2f4b8c5]
+[16:38:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:38:56] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.2+fc3c499
+[16:38:56] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:38:56] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[16:38:57] [Server thread/INFO]: Preparing level "world"
+[16:38:57] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:38:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:38:58] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[16:38:58] [Server thread/INFO]: Preparing spawn area: 0%
+[16:38:58] [Server thread/INFO]: Time elapsed: 344 ms
+[16:38:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:38:58] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[16:38:58] [Server thread/INFO]: Time elapsed: 333 ms
+[16:38:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:38:59] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[16:38:59] [Server thread/INFO]: Time elapsed: 95 ms
+[16:38:59] [Server thread/INFO]: [Blue_Marble] Enabling Blue_Marble v1.0
+[16:38:59] [Server thread/INFO]: Running delayed init tasks
+[16:38:59] [Server thread/INFO]: Done (3.995s)! For help, type "help"
+[16:38:59] [Server thread/INFO]: Timings Reset
+[16:38:59] [Server thread/INFO]: Stopping the server
+[16:38:59] [Server thread/INFO]: Stopping server
+[16:38:59] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.2+fc3c499
+[16:38:59] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[16:38:59] [Server thread/INFO]: [Blue_Marble] Disabling Blue_Marble v1.0
+[16:38:59] [Server thread/INFO]: Saving players
+[16:38:59] [Server thread/INFO]: Saving worlds
+[16:38:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:39:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:39:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:39:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:39:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:39:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:39:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:39:06] [Server thread/INFO]: Flushing Chunk IO
+[16:39:06] [Server thread/INFO]: Closing Thread Pool
+[16:39:06] [Server thread/INFO]: Closing Server

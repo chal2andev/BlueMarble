@@ -8,8 +8,3 @@ commands:
   bluemarble:
    usage: /bluemarble [args..]
    description: bluemarble contral command
-   permission: contral.bluemarble.command
-
-permissions:
-  contral.bluemarble.command:
-    default: op
